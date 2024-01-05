@@ -92,7 +92,7 @@ Hit CTRL-C to stop the server
 
 ----
 
-== Releasing Starknet docs on Github
+== Releasing Starknet docs detail on Github
 _The high-level process for releasing documentation changes in this repository._
 
 During the course of content development, writers merge branches with changes either directly into `main`, into a secondary branch as needed, where these changes wait until we are ready to release them—that is, post them to link:https://docs.starknet.io[docs.starknet.io].
